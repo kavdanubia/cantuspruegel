@@ -1,0 +1,32 @@
+%Oberste Ebene, Buch
+\documentclass[a5paper, 11pt]{book}
+
+\usepackage{fullpage}
+\usepackage[utf8]{inputenc}
+\usepackage[naustrian]{babel}
+\usepackage{ifthen}
+\usepackage{makeidx}
+\usepackage{geometry}
+
+\setlength{\parindent}{0pt}
+
+\newcommand{\wdh}[1]{$|:$~#1~$:|$}
+
+\newcounter{strophe}[subsection]
+\renewcommand{\thestrophe}{\stepcounter{strophe}\arabic{strophe}.~}
+
+\makeindex
+
+\begin{document}
+
+\tableofcontents
+
+
+\chapter{Hymnen}
+
+\input{Lieder_N/auf_des_glaubens_N.lytex} %"auf_des_glaubens_N.lytex" wird eingebunden
+
+\pagebreak
+\printindex
+
+\end{document}
