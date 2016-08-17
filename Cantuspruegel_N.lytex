@@ -17,6 +17,7 @@
 	\chapter*{#1}%
 	\addcontentsline{toc}{chapter}{#1}%
 	}
+\newcommand{\weise}[1]{\hfill Weise: #1}
 
 \newcounter{strophe}[subsection]
 \renewcommand{\thestrophe}{\stepcounter{strophe}\arabic{strophe}.~}
