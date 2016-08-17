@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.15)  16 AUG 2016 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.15)  17 AUG 2016 15:15
 entering extended mode
 **./Cantuspruegel_N.tex
 (Cantuspruegel_N.tex
@@ -433,18 +433,18 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 (Cantuspruegel_N.aux)
 \openout1 = `Cantuspruegel_N.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -545,28 +545,51 @@ G,.JBIG2,.JB2,.eps]
 
 ] (Lieder_N/auf_des_glaubens_N.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 15.
+(Font)              <10.95> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
+(Font)              <6> on input line 14.
 
-Overfull \hbox (2.76686pt too wide) in paragraph at lines 17--21
+Overfull \hbox (2.76686pt too wide) in paragraph at lines 16--20
 []\OT1/cmr/m/n/10.95 2. Nach der Wis-sen-schaft zu stre-ben, sei uns al-len ern
 s-te Pflicht; 
  []
 
-)
+) (Lieder_N/heil_danubia_lass_N.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
+Overfull \hbox (9.58018pt too wide) in paragraph at lines 18--22
+[]\OT1/cmr/m/n/10.95 5. Blau wie des Da-nu-bi-as Wo-gen, der aus weiem Fel-sen
+ sch[]aumt, 
+ []
+
+) (Lieder_N/einer_farbe_einem_N.tex [4]) (Lieder_N/in_dem_staedtchen_N.tex
+Overfull \hbox (3.9532pt too wide) in paragraph at lines 16--20
+\OT1/cmr/m/n/10.95 junge Bur-schen sind ge-zo-gen bunt-bem[]utzt, den Stock zur
+ Hand. 
+ []
+
+) [5] [6
+
+] (Lieder_N/als_ich_zog_N.tex
+Overfull \hbox (11.61809pt too wide) in paragraph at lines 7--15
+\OMS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 :$ Und von vie-len rhein'schen M[]adch
+en lo-cken dich die []Augelein! $:
+ []
+
+[7])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
 No file Cantuspruegel_N.ind.
 (Cantuspruegel_N.aux) ) 
 Here is how much of TeX's memory you used:
- 2791 strings out of 493335
- 37823 string characters out of 3136651
- 108745 words of memory out of 3000000
- 6271 multiletter control sequences out of 15000+200000
+ 2810 strings out of 493335
+ 38220 string characters out of 3136651
+ 109757 words of memory out of 3000000
+ 6278 multiletter control sequences out of 15000+200000
  7898 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,4n,23p,243b,137s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -575,9 +598,9 @@ sfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on Cantuspruegel_N.pdf (3 pages, 53952 bytes).
+Output written on Cantuspruegel_N.pdf (8 pages, 65698 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

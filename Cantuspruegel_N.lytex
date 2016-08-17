@@ -32,6 +32,13 @@
 \mychapter{Hymnen}
 
 \input{Lieder_N/auf_des_glaubens_N.lytex} %"auf_des_glaubens_N.lytex" wird eingebunden
+\input{Lieder_N/heil_danubia_lass_N.lytex}
+\input{Lieder_N/einer_farbe_einem_N.lytex}
+\input{Lieder_N/in_dem_staedtchen_N.lytex}
+
+\mychapter{Orte}
+
+\input{Lieder_N/als_ich_zog_N.lytex}
 
 \pagebreak
 \printindex
