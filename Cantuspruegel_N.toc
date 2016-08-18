@@ -1,3 +1,5 @@
 \select@language {naustrian}
 \contentsline {chapter}{Hymnen}{3}
-\contentsline {chapter}{Orte}{7}
+\contentsline {chapter}{Landeshymnen}{7}
+\contentsline {chapter}{Orte}{9}
+\contentsline {chapter}{Officium}{11}

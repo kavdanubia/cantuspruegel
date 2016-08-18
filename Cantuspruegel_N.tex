@@ -1,5 +1,5 @@
 %Oberste Ebene, Buch
-\documentclass[a5paper, 11pt]{book}
+\documentclass[b5paper, 11pt]{book}
 
 \usepackage{fullpage}
 \usepackage[utf8]{inputenc}
@@ -17,7 +17,7 @@
 	\chapter*{#1}%
 	\addcontentsline{toc}{chapter}{#1}%
 	}
-\newcommand{\weise}[1]{\hfill Weise: #1}
+\newcommand{\weise}[1]{\hfill Weise: #1 \newline\newline}
 
 \newcounter{strophe}[subsection]
 \renewcommand{\thestrophe}{\stepcounter{strophe}\arabic{strophe}.~}
@@ -32,14 +32,26 @@
 
 \mychapter{Hymnen}
 
-\input{Lieder_N/auf_des_glaubens_N.tex} %"auf_des_glaubens_N.lytex" wird eingebunden
 \input{Lieder_N/heil_danubia_lass_N.tex}
+\input{Lieder_N/auf_des_glaubens_N.tex} %"auf_des_glaubens_N.lytex" wird eingebunden
 \input{Lieder_N/einer_farbe_einem_N.tex}
 \input{Lieder_N/in_dem_staedtchen_N.tex}
+
+\mychapter{Landeshymnen}
+
+\input{Lieder_T/Hymnen/Landeshymnen/dort_wo_tirol_T.tex}
+\input{Lieder_T/Hymnen/Landeshymnen/du_laendle_meine_T.tex}
+\input{Lieder_T/Hymnen/Landeshymnen/hoamatland_hoamatland_die_T.tex}
 
 \mychapter{Orte}
 
 \input{Lieder_N/als_ich_zog_N.tex}
+\input{Lieder_T/Orte/wien_mein_wien_T.tex}
+
+\mychapter{Officium}
+
+\input{Lieder_T/Officium/gaudeamus_igitur_iuvenes_T.tex}
+\input{Lieder_T/Officium/alles_schweige_jeder_T.tex}
 
 \pagebreak
 \printindex

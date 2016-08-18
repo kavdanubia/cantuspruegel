@@ -1,4 +1,4 @@
-%In diesem Fall sind die Noten schon im Lied "strömt herbei ihr Völkerscharen.
+﻿%In diesem Fall sind die Noten schon im Lied "strömt herbei ihr Völkerscharen.
 %Daher ist es nicht notwendig Noten einzubinden
 
 \subsection*{Auf des Glaubens Felsengrunde}
@@ -6,7 +6,7 @@
 \index{ÖCV Hymne}%
 \nopagebreak
 \hfill%
-Weise: Strömt herbei ihr Völkerscharen%
+\weise{Strömt herbei ihr Völkerscharen}%
 \nopagebreak
 \thestrophe Auf des Glaubens Felsengrunde stehe du, Cartellverband, \\
 wohlgeeint zu jeder Stunde, treu zu Gott und Vaterland! \\
