@@ -1,0 +1,89 @@
+This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning input file Cantuspruegel_N.tex...
+!! Input index error (file = Cantuspruegel_N.tex, line = 1):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = Cantuspruegel_N.tex, line = 2):
+   -- Unknown index keyword \documentclass[b5paper,11pt].
+!! Input index error (file = Cantuspruegel_N.tex, line = 4):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = Cantuspruegel_N.tex, line = 5):
+   -- Unknown index keyword \usepackage[utf8].
+!! Input index error (file = Cantuspruegel_N.tex, line = 6):
+   -- Unknown index keyword \usepackage[naustrian].
+!! Input index error (file = Cantuspruegel_N.tex, line = 7):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = Cantuspruegel_N.tex, line = 8):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = Cantuspruegel_N.tex, line = 9):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = Cantuspruegel_N.tex, line = 11):
+   -- Unknown index keyword \setlength.
+!! Input index error (file = Cantuspruegel_N.tex, line = 13):
+   -- Unknown index keyword \newcommand.
+!! Input index error (file = Cantuspruegel_N.tex, line = 14):
+   -- Unknown index keyword \newcommand.
+!! Input index error (file = Cantuspruegel_N.tex, line = 15):
+   -- Unknown index keyword \stepcounter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 16):
+   -- Unknown index keyword \setcounter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 17):
+   -- Unknown index keyword \chapter*.
+!! Input index error (file = Cantuspruegel_N.tex, line = 18):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = Cantuspruegel_N.tex, line = 19):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = Cantuspruegel_N.tex, line = 20):
+   -- Unknown index keyword \newcommand.
+!! Input index error (file = Cantuspruegel_N.tex, line = 21):
+   -- Unknown index keyword \newcommand.
+!! Input index error (file = Cantuspruegel_N.tex, line = 23):
+   -- Unknown index keyword \newcounter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 24):
+   -- Unknown index keyword \renewcommand.
+!! Input index error (file = Cantuspruegel_N.tex, line = 26):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = Cantuspruegel_N.tex, line = 28):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = Cantuspruegel_N.tex, line = 29):
+   -- Unknown index keyword \begin.
+!! Input index error (file = Cantuspruegel_N.tex, line = 31):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = Cantuspruegel_N.tex, line = 34):
+   -- Unknown index keyword \mychapter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 36):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 37):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 38):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 39):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 41):
+   -- Unknown index keyword \mychapter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 43):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 44):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 45):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 47):
+   -- Unknown index keyword \mychapter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 49):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 50):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 52):
+   -- Unknown index keyword \mychapter.
+!! Input index error (file = Cantuspruegel_N.tex, line = 54):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 55):
+   -- Unknown index keyword \input.
+!! Input index error (file = Cantuspruegel_N.tex, line = 57):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = Cantuspruegel_N.tex, line = 58):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = Cantuspruegel_N.tex, line = 60):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 42 rejected).
+Nothing written in Cantuspruegel_N.ind.
+Transcript written in Cantuspruegel_N.ilg.
